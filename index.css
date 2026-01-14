@@ -1,3 +1,7 @@
+body, main, div, header, i {
+    user-select: none;
+}
+
 body {
     display: flex;
     flex-direction: column;
